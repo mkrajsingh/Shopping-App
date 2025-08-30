@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: #f1f2f4;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* bg */
+.primary-bg {
+  background:#2a55e5;
+}
+.primary-bg-h:hover {
+  background:#6778b0;
+}
+.footer-bg{
+  background-color: #172337;
+}
+/* bg end */
+/* fonts */
+.primary-font {
+  font-size: 14px;
+}
+.category-font {
+  font-size: 20px;
+}
+.text-color{
+  color: #212121;
+}
+.mob-category-font {
+  font-size: 16px;
+}
+.font-fam {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.font-fam2{
+  font-family: inter_semi_bold,fallback-inter_semi_bold,Arial,sans-serif;
+}
+/* end fonts */
+
+/* imgs */
+
+.header-category-img {
+  width: 92px;
+}
+
+/* padding */
+.header-category-img-p{
+    padding:10px;
+}
+.mob-header-category-img-p{
+    padding:5px;
+}
+.category-name-p {
+    padding: 16px 12px;
+}
+.mob-category-name-p {
+    padding: 12px 16px ;
+}
+.mob-category-name-p {
+    padding: 12px 16px ;
+}
+.sponsored-category-name-p {
+    padding: 12px 16px ;
+}
+.mob-img-card-p {
+    padding: 16px 16px 12px;
+}
+.img-card-p {
+    padding: 6px;
+}
+/* end - padding */
+
+
+/* header  */
+
+/* custom icon */
+.custom_icon_size {
+  font-size: 40px;
+}
