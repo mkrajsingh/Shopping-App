@@ -2,11 +2,11 @@
 
 ## 📙 Description
 
-Flikart is a project developed for online shopping inspired from ShopEase. It incorporates various technologies and libraries to achieve Html5, css3, React, typescript, redux, tailwindcss
+Flikart is a project developed for online shopping inspired from Rj shop App. It incorporates various technologies and libraries to achieve Html5, css3, React, typescript, redux, tailwindcss
 
 
 # Clone the repository
-https://github.com/mkrajsingh/Shopping-App/edit/main/README.md
+https://github.com/mkrajsingh/Shopping-App
 
 # Navigate to the project directory
 cd Shopping App
