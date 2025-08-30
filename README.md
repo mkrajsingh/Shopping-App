@@ -1,18 +1,16 @@
+# 🛒 Shoping site
 
 ## 📙 Description
 
-Flikart is a project developed for online shopping inspired from Shopping App. It incorporates various technologies and libraries to achieve Html5, css3, React, typescript, redux, tailwindcss
+Flikart is a project developed for online shopping inspired from ShopEase. It incorporates various technologies and libraries to achieve Html5, css3, React, typescript, redux, tailwindcss
 
-## 🛠️ Installation
 
-Before getting started, ensure you have Node.js and npm installed on your machine.
-
-```bash
 # Clone the repository
-https://github.com/muhammadshakkeerp/Shopease.git
+https://github.com/mkrajsingh/Shopping-App/edit/main/README.md
 
 # Navigate to the project directory
-cd ShopEase_clone
+cd Shopping App
+
 
 # Install dependencies
 npm install
@@ -84,5 +82,3 @@ flikart/
 ├── tsconfig.json
 └── ...
 ```
-
-
